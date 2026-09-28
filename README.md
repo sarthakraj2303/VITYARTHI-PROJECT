@@ -81,7 +81,7 @@ The files are listed in the order in which they build on each other:
 Make sure Python 3.6 or newer is installed:
 
 ```bash
-python --version
+python -- 3.14.7
 ```
 
 ### 2. Clone the repository
