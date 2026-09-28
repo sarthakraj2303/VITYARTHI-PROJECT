@@ -185,6 +185,7 @@ All tests passed!
 
 ## 📸 Screenshots
 
+<img width="1901" height="1117" alt="main menu" src="https://github.com/user-attachments/assets/3e2e261f-9ed5-483c-a6fb-6d69c91a0590" />
 
 
 
