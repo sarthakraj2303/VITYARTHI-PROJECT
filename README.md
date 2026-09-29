@@ -11,7 +11,7 @@ Running a hostel mess involves tracking who ate how many meals and splitting the
 
 - Students are registered once.
 - Each day, the number of meals (0–3) eaten by a student is recorded.
-- Daily expenses (rice, vegetables, gas, etc.) are recorded with an amount.
+- Daily expenses are recorded with an amount.
 - The system divides the **total expense by the total meals eaten** to get a per-meal rate, then multiplies it by each student's meals to produce a fair bill.
 
 All data is stored in plain text (CSV-style) files, so no database or external library is required.
