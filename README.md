@@ -87,8 +87,8 @@ python -- 3.14.7
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/<sarthakraj2303>/<Hostel-Mess-Expenses>.git
-cd <Hostel-Mess-Expenses>
+git clone https://github.com/<sarthakraj2303>/<VITYARTHI-PROJECT>.git
+cd <VITYARTHI-PROJECT>
 ```
 
 ### 3. Install dependencies
