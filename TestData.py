@@ -20,7 +20,7 @@ assert Students.mark("Drishya", "1") == "Member not found."
 assert Students.mark("Swaraj", "9") != "Attendance saved."
 assert Expenses.add("Chicken", "fifty") == "Amount must be a number."
 assert Expenses.add("paneer", "200") == "saved"
-assert Bills() == {"Narayan": 300.0, "Aditya": 150.0}
+assert Bills() == {"Sarthak": 200.0, "Aditya": 50.0}
 print("All tests passed!")
 
 for f in ("StudentName.txt", "StudentDate.txt", "StudentExpenses.txt", "StudentAttendance.txt"):
